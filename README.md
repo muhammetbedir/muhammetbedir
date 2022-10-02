@@ -18,7 +18,6 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <br />
 <br />  
-[![trophy](https://github-profile-trophy.vercel.app/?username=muhammetbedir&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammetbedir&show_icons=true&locale=en&layout=compact" alt="muhammetbedir" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammetbedir&show_icons=true&locale=en" alt="muhammetbedir" width="50%" /></p><br />
 <br />
